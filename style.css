@@ -192,6 +192,11 @@ footer{
     width: 130px;
     margin-bottom: 30px;
 }
+.icons a{
+    font-size: 22px;
+    padding: 5px;
+    color: rgb(195, 205, 231);
+}
 .footer-dis{
     display: block;
     margin-block-start: 1em;
