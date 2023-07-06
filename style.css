@@ -67,6 +67,32 @@ nav{
     border: none;
     color: white;
 }
-.banner-img{
+.photo{
     width: 300px;
+}
+
+/*  */
+
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+.about-tital{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 54px;
+    font-weight: bold;
+}
+.second-tital{
+    display: block;
+    font-weight: bold;
+}
+.about-dispriton{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
 }
