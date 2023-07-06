@@ -22,6 +22,9 @@ nav{
     color: white;
     padding: 12px;
 }
+div { 
+    display: block;
+}
 .manu-items{
     display: flex;
     justify-content: space-around;
@@ -147,7 +150,7 @@ nav{
     margin-top:10px;
     border-radius: 5px;
     padding:10px 20px;
-    background-color:rgb(36, 33, 33);
+    background-color:#1c1b1b;;
     color: white;
     border: none;
     cursor: pointer;
@@ -206,6 +209,4 @@ footer{
     padding: 15px;
 }
 
-div {
-    display: block;
-}
+
